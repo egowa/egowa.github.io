@@ -2,13 +2,13 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "egowa's page"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2006/01/02"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
@@ -19,7 +19,7 @@ title = "Blowfish"
 #   email = "youremail@example.com"
    image = "https://avatars.githubusercontent.com/u/98016140?v=4"
 #   imageQuality = 96
-   headline = "I'm only human"
+   headline = "Learning, building, documenting"
 #   bio = "A little bit about you"
    links = [
 #     { email = "mailto:hello@your_domain.com" },
