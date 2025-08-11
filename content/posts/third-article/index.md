@@ -1,7 +1,7 @@
 +++
 title = 'tmux + lazyvim으로 블로그 관리하기'
 date = 2025-08-11T22:06:20+09:00
-draft = true
+draft = false 
 +++
 
 ## tmux와 lazyvim을 사용하게 된 계기
